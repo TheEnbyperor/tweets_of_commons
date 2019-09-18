@@ -1,0 +1,13 @@
+[package]
+name = "member_loader"
+version = "0.1.0"
+authors = ["Q Misell <q@misell.cymru>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9"
+xml-rs = "0.8"
+chrono = "0.4"
+dgraph = "0.1"
+serde = "1.0"
+serde_json = "1.0"
